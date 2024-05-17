@@ -11,3 +11,4 @@ Claim Base Camp badges on Guild.xyz by performing tasks on Base Sepolia testnet
 Trade AERO on Aerodrome.finance
 
 Providity liquidity on Aerodrome.finance
+
